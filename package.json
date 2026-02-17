@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://github.com/smrakshitha40-ctrl/reacttodo.git",
+  "homepage": "https://smrakshitha40-ctrl.github.io/reacttodo",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
